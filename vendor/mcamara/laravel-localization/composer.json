@@ -1,0 +1,55 @@
+{
+    "name": "mcamara/laravel-localization",
+    "description": "Easy localization for Laravel",
+    "keywords": [
+        "localization",
+        "laravel",
+        "php"
+    ],
+    "homepage": "https://github.com/mcamara/laravel-localization",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marc Cámara",
+            "email": "mcamara88@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "laravel/framework": "^10.0|^11.0|^12.0"
+    },
+    "require-dev": {
+        "orchestra/testbench-browser-kit": "^8.5|^9.0|^10.0",
+        "phpunit/phpunit": "^10.1|^11.0"
+    },
+    "suggest": {
+        "ext-intl": "*"
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    },
+    "autoload": {
+        "classmap": [],
+        "psr-0": {
+            "Mcamara\\LaravelLocalization": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Mcamara\\LaravelLocalization\\Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mcamara\\LaravelLocalization\\LaravelLocalizationServiceProvider"
+            ],
+            "aliases": {
+                "LaravelLocalization": "Mcamara\\LaravelLocalization\\Facades\\LaravelLocalization"
+            }
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

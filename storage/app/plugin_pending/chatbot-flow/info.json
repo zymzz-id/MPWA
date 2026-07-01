@@ -1,0 +1,9 @@
+{
+    "name": "Chatbot Flow",
+    "slug": "chatbot-flow",
+    "version": "1.0.0",
+    "description": "Visual chatbot flow builder for WhatsApp automation.",
+    "author": "Magd Almuntaser",
+    "compatibility": "1.0.0",
+    "entry": "PluginServiceProvider"
+}

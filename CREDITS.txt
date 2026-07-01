@@ -1,0 +1,88 @@
+================================================================================
+                                 MPWA CREDITS
+================================================================================
+
+This project would not have been possible without the hard work, dedication, 
+and contributions of the following individuals and teams. 
+
+--------------------------------------------------------------------------------
+[ LEAD DEVELOPER ]
+--------------------------------------------------------------------------------
+(Magd Almuntaser)
+Profile:  https://doniaweb.com/profile/55280-magd-almuntaser/
+Website:  https://www.onexgen.com
+Donate:   https://mpwa.onexgen.com/donate-mpwa
+
+--------------------------------------------------------------------------------
+[ TESTING TEAM ]
+--------------------------------------------------------------------------------
+(Dentos)
+Profile:  https://doniaweb.com/profile/148446-dentos/
+
+(IT The Explorer)
+Profile:  https://doniaweb.com/profile/65743-it-the-explorer/
+
+(adhiete)
+Profile:  https://doniaweb.com/profile/139022-adhiete
+
+--------------------------------------------------------------------------------
+[ SPECIAL THANKS: PLUGIN DEVELOPERS ]
+--------------------------------------------------------------------------------
+(Dentos)
+Profile:  https://doniaweb.com/profile/148446-dentos/
+Donate:   https://saweria.co/dentos
+
+(DapuriX)
+Profile:  https://doniaweb.com/profile/74869-murasaki/
+Donate:   https://linktr.ee/DapuriX
+
+(AsraTech)
+Profile:  https://doniaweb.com/profile/139618-tukangsopwer/
+Website:  https://asratech.id/
+Donate:   https://saweria.co/abangsopian
+
+(Oworock)
+Profile:  https://doniaweb.com/profile/153206-oworock/
+Website:  https://jambapp.org/
+Donate:   https://flutterwave.com/donate/jjjgfpd5ijbk
+
+(Shivendra Kr.)
+Profile:  https://doniaweb.com/profile/44205-shivendra-kr-sahu/
+Website:  https://aashriyatechnology.com
+Donate:   https://paypal.me/aashriyatechnology
+
+(Ipo Kane)
+Profile:  https://doniaweb.com/profile/147088-ipo-kane/
+Donate:   https://app.midtrans.com/payment-links/excel-campaign-YAX5UZhp
+
+(DGSoft)
+Profile:  https://doniaweb.com/profile/55894-jei-grey/
+Donate:   https://digitalgalery.biz.id/qris.jpg
+
+(Dammah)
+Profile:  https://doniaweb.com/profile/188753-dammah/
+Website:  https://wa.mimin.cloud
+
+(Paijoojiap)
+Profile:  https://doniaweb.com/profile/131621-paijoojiap/
+Donate:   https://teer.id/paijoojiap
+
+(DUAFA)
+Profile:  https://doniaweb.com/profile/193929-rustam-effendy/
+Donate:   http://shortener.pjbuppaiton.com/QRIS
+
+(Embedflix)
+Profile:  https://doniaweb.com/profile/42415-narrador-de-fatos/
+
+(ADS SOLUTIONS)
+Profile:  https://doniaweb.com/profile/152756-ads-solutions/
+
+================================================================================
+          Thank you to everyone who supported the MPWA project!
+================================================================================
+
+MPWA is an open-source project made possible through the contributions, testing 
+efforts, and support of the individuals listed above. Their involvement plays a 
+direct role in improving stability, features, and overall quality.
+
+If you find this project useful, consider supporting the contributors.
