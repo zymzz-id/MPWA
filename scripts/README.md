@@ -9,6 +9,10 @@ Berikut adalah panduan lengkap untuk menjalankan dan mengelola MPWA menggunakan 
 **Start MPWA**
 - Linux/macOS
 ```bash 
+git clone https://github.com/zymzz-id/MPWA.git
+cd MPWA
+git checkout feature/auto-startup-script
+chmod +x scripts/start.sh
 ./scripts/start.sh
 ```
 - Windows
